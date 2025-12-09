@@ -58,12 +58,19 @@ Feedback & Sentiment: Monitor real-time ratings, reviews, and sentiment to guide
 Files stored in the Dataset folder:
 
 dim_customer.csv
+
 dim_delivery_partner_.csv
+
 dim_menu_item.csv
+
 dim_restaurant.csv
+
 fact_delivery_performance.csv
+
 fact_order_items.csv
+
 fact_orders.csv
+
 fact_ratings.csv
 
 
