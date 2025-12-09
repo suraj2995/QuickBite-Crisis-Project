@@ -49,7 +49,7 @@ Feedback & Sentiment: Monitor real-time ratings, reviews, and sentiment to guide
 
 - **Power BI** – Data modelling & dashboards  
 - **Excel/CSV** – Raw data files  
-- Basic **DAX** for measures (churn, revenue at risk, retention score, AOV, SLA, etc.)
+- Advance **DAX** for measures (churn, revenue at risk, retention score, AOV, SLA, etc.)
 
 ---
 
